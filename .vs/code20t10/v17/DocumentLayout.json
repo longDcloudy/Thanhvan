@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\code20t10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\code20t10\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_a87b897a\\OpenFolder\\VSWorkspaceSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\code20t10\\.vs\\code20t10\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\code20t10\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\code20t10\\.vs\\code20t10\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\code20t10\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VSWorkspaceSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_a87b897a\\OpenFolder\\VSWorkspaceSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_a87b897a\\OpenFolder\\VSWorkspaceSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T09:22:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentLayout.json",
+              "DocumentMoniker": "F:\\code20t10\\.vs\\code20t10\\v17\\DocumentLayout.json",
+              "RelativeDocumentMoniker": ".vs\\code20t10\\v17\\DocumentLayout.json",
+              "ToolTip": "F:\\code20t10\\.vs\\code20t10\\v17\\DocumentLayout.json",
+              "RelativeToolTip": ".vs\\code20t10\\v17\\DocumentLayout.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T09:21:58.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "applicationhost.config",
+              "DocumentMoniker": "F:\\code20t10\\.vs\\code20t10\\config\\applicationhost.config",
+              "RelativeDocumentMoniker": ".vs\\code20t10\\config\\applicationhost.config",
+              "ToolTip": "F:\\code20t10\\.vs\\code20t10\\config\\applicationhost.config",
+              "RelativeToolTip": ".vs\\code20t10\\config\\applicationhost.config",
+              "ViewState": "AgIAAO0DAAAAAAAAAAAUwPgDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-19T09:17:05.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "F:\\code20t10\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "F:\\code20t10\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAALABAAAAAAAAAAAAAL0BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-19T09:12:16.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
